@@ -87,3 +87,5 @@ function checkWin(currentClass) {
     })
   })
 }
+
+constole.log();
